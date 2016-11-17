@@ -1,0 +1,9 @@
+public class SampleClass {
+  
+  private static final LOOP = 5
+
+  public sampleClass() {
+  
+  }
+
+}
